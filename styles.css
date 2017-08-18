@@ -5,7 +5,12 @@ html {
   font-family: arial, sans-serif;
 }
 
-.logo img, input {
-  margin: auto;
+.logo img {
+  margin: 25% auto 0% auto;
   display: block;
+}
+
+.logo input {
+  display: block;
+  margin: auto;
 }
