@@ -2,12 +2,14 @@ html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abb
 
 html {
   font-family: arial, sans-serif;
-  min-height: 616px;
+  min-height: 100%;
 }
 
  #wrapper {
    min-height: 100px;
    min-width: 450px;
+   max-height: 720px;
+   margin-bottom: 35px;
  }
 
 .logo img {
@@ -84,7 +86,6 @@ footer {
   width: 100%;
   border: solid 1px lightgray;
   min-width: 724px;
-  overflow: hidden;
 }
 
 #left {
