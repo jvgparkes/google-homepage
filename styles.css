@@ -10,6 +10,10 @@ html {
   display: block;
 }
 
+section {
+  text-align: center;
+}
+
 .textbox {
   display: block;
   box-sizing: border-box;
@@ -20,6 +24,11 @@ html {
   height: 40px;
   font-size: medium;
   padding: 1em;
+}
+
+.button {
+  width: 150px;
+  margin: auto;
 }
 
 nav {q
@@ -48,8 +57,4 @@ li {
   font-weight: bolder;
   border-radius: 2.5px;
   padding: 0.5em 1em;
-}
-
-.search {
-
 }
