@@ -32,13 +32,14 @@ nav ul {
   right: 0px;
   left: auto;
   text-align: right;
-  padding: 1em;
+  padding: 1.5em;
 }
 
 li {
   display: inline;
-  padding: 1em;
+  padding: 0.5em;
   font-size: smaller;
+  font-weight: 100;
 }
 
 #sign {
