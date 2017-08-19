@@ -17,6 +17,11 @@ html {
   display: block;
 }
 
+.navbar img {
+  width: 20px;
+  height: 20px;
+}
+
 #UK {
   display: block;
   position: absolute;
