@@ -83,6 +83,8 @@ footer {
   height: 35px;
   width: 100%;
   border: solid 1px lightgray;
+  min-width: 724px;
+  overflow: hidden;
 }
 
 #left {
