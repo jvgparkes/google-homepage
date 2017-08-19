@@ -10,7 +10,7 @@ html {
   display: block;
 }
 
-.logo input {
+.textbox {
   display: block;
   box-sizing: border-box;
   margin: 2em auto;
@@ -51,7 +51,5 @@ li {
 }
 
 .search {
-  display: inline-block;
-  margin: auto;
-  text-align: center;
+
 }
