@@ -34,3 +34,7 @@ nav ul {
   text-align: right;
   padding: 1em;
 }
+
+li {
+  display: inline;
+}
