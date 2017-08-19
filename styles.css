@@ -12,22 +12,30 @@ html {
    margin-bottom: 35px;
  }
 
+.logo {
+  position: relative;
+}
+
 .logo img {
   margin: 15% auto 0% auto;
   display: block;
+  position: relative;
+  width: 272px;
 }
 
 .navbar img {
+  position: relative;
+  top: 5px;
   width: 20px;
   height: 20px;
 }
 
-#UK {
-  display: block;
+.logo p {
   position: absolute;
-  margin: 0 57% 0 57%;
+  top: 80%;
+  left: 50%;
   font-size: 16px;
-  color: blue;
+  color: #4285f4;
 }
 
 #boo {
