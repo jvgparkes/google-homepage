@@ -6,7 +6,7 @@ html {
 }
 
  #wrapper {
-   padding-bottom: 100px;
+   padding-bottom: 35px;
  }
 
 .logo img {
@@ -14,7 +14,7 @@ html {
   display: block;
 }
 
-section {
+#boo {
   text-align: center;
 }
 
@@ -72,11 +72,29 @@ li {
 }
 
 footer {
-  background-color: lightgray;
+  background-color: #f2f5f9;
+  color: #666;
+  font-size: smaller;
   position: absolute;
   bottom: 0;
   right: 0;
   left: auto;
   height: 35px;
   width: 100%;
+  border: solid 1px lightgray;
+}
+
+#left {
+  display: inline;
+  text-align: left;
+  float: left;
+  margin-left: 28px;
+  word-spacing: 28px;
+}
+
+#right {
+  display: inline;
+  text-align: right;
+  float: right;
+  margin-right: 28px;
 }
