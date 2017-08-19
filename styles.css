@@ -89,7 +89,8 @@ footer {
   text-align: left;
   float: left;
   margin-left: 28px;
-  word-spacing: 28px;
+  word-spacing: 18px;
+  margin-top: 10px;
 }
 
 #right {
@@ -97,4 +98,6 @@ footer {
   text-align: right;
   float: right;
   margin-right: 28px;
+  word-spacing: 18px;
+  margin-top: 10px;
 }
