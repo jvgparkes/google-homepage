@@ -21,3 +21,15 @@ html {
   font-size: medium;
   padding: 1em;
 }
+
+nav {q
+  width: 100%;
+}
+
+nav ul {
+  position: absolute;
+  top: 0px;
+  right: 0px;
+  left: auto;
+  text-align: right;
+}
