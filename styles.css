@@ -38,7 +38,7 @@ nav ul {
 li {
   display: inline;
   padding: 0.5em;
-  font-size: smaller;
+  font-size: small;
   font-weight: 100;
 }
 
@@ -48,4 +48,10 @@ li {
   font-weight: bolder;
   border-radius: 2.5px;
   padding: 0.5em 1em;
+}
+
+.search {
+  display: inline-block;
+  margin: auto;
+  text-align: center;
 }
