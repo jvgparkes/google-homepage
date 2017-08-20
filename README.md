@@ -9,3 +9,5 @@ It is quite easy to make git commit messages too long. 50 characters; that's all
 ### What did I struggle with?
 
 Well, take a look! That UK text that is supposed to stick to the Google logo? I could not work out how to get this to work as it does on the real Google homepage. I am wondering if it needs some advanced techniques I do not know about yet. Or maybe it is possible with all the layout and positioning styles, but I am struggling to get my head around these.
+
+Edit: I have managed it (by essentially using padding to make the UK shift right of centre), but I am sure there is a more elegant way of doing it. Anyway, a good start. Onto Javascript!
